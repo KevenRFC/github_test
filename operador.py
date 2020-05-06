@@ -1,4 +1,4 @@
 import math
 
 def operar(a,b,c):
-	print(a+b)
+	print(a+b+c) # + c
